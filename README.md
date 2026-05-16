@@ -29,8 +29,9 @@ Paste your decklist, hit Search, and PokeCardFinder scrapes 10+ Canadian stores 
 | Silver Goblin | Greater Montréal |
 | The Side Deck | Greater Montréal |
 | Gamekeeper | Greater Montréal |
+| Face to Face Games | Greater Montréal |
 | 401 Games | Canada-wide |
-| Face to Face Games | Canada-wide |
+| Hobbiesville | Canada-wide |
 
 ## Installation
 
