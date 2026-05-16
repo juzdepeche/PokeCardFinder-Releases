@@ -4,6 +4,8 @@ Find the best prices for your Pokémon TCG cards across Canadian stores.
 
 Paste your decklist, hit Search, and PokeCardFinder scrapes 10+ Canadian stores in parallel and tells you exactly where to buy each card and from how many stores to minimize your total cost.
 
+<img width="1363" height="985" alt="pokecardfinder_screenshot" src="https://github.com/user-attachments/assets/cfc08f5e-71ad-4ac5-8ef0-0dd23f37ee2f" />
+
 ---
 
 ## Features
@@ -32,6 +34,8 @@ Paste your decklist, hit Search, and PokeCardFinder scrapes 10+ Canadian stores 
 | Face to Face Games | Greater Montréal |
 | 401 Games | Canada-wide |
 | Hobbiesville | Canada-wide |
+
+<img width="530" height="844" alt="pokecardfinder_stores" src="https://github.com/user-attachments/assets/48124439-4e88-4128-858d-dd957ebbd2c2" />
 
 ## Installation
 
